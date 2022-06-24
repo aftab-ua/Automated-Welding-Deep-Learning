@@ -1,0 +1,2 @@
+# Automated-Welding-Deep-Learning
+In machine learning, data labeling is the process of identifying raw data (images, text files, videos) and adding one or more meaningful and informative labels to provide context so that a machine learning model can learn from it. Data labeling can be performed manually, automatically / semi-automatically. This project proposes a solution to semi-automatically classify and label large datasets. The project also goes ahead to design and develop an interface to operate our solutions.
